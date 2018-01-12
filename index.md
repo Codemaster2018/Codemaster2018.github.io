@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# Patrick Hennessey's Projects 
 
-You can use the [editor on GitHub](https://github.com/Codemaster2018/Codemaster2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello Internet! This website contains my professional and personal projects, as well as solutions to random problems I could not find on Google. Enjoy! 
 
 ### Markdown
 
