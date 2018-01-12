@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Patrick Hennessey 
+## Engineering Portfolio
 
-You can use the [editor on GitHub](https://github.com/Codemaster2018/Codemaster2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Finger Analogue 
+#### Annulus Medical
+#### Overview:
+In order to validate the safety and performance of our ring removing device,
+we designed a test apparatus to simulate a swelling finger. It was comprised
+of three layers of urethanes compression molded together. The layers
+simulated bone, flesh, and skin. Water was pumped into the flesh layer to
+simulate blood, and a pressure source was used to induce swelling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Swelling Finger](https://github.com/Codemaster2018/Codemaster2018.github.io/blob/master/Finger%20Cross%20Section%20copy.png)
+![Swelling Test Apparatus](https://github.com/Codemaster2018/Codemaster2018.github.io/blob/master/Test%20Rig%20V1.png)
 
-### Markdown
+### 25 kV Circuit Replacement 
+#### Nova Scotia Power
+#### Overview:
+A circuit breaker failed catastrophically, cutting off a hydro generating station
+from the grid, costing the power company $18 000 per day in additional fuel
+costs. I was assigned as the lead engineer to coordinate the replacement. I
+had to work with field crews, contractors, suppliers and other engineering
+departments to assess damage to surrounding equipment, rebuild failed
+infrastructure, coordinate an environment cleanup, and deliver daily updates
+to all stakeholders. The project was completed in several weeks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![25 kV Circuit](https://github.com/Codemaster2018/Codemaster2018.github.io/blob/master/IMG_5703%202.JPG)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Codemaster2018/Codemaster2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
